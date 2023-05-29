@@ -1,0 +1,5 @@
+appscript==1.2.2
+lxml==4.9.2
+psycopg2-binary==2.9.6
+python-docx==0.8.11
+tqdm==4.65.0
